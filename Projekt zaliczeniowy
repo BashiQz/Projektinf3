@@ -1,1 +1,5 @@
-
+Program ma wyświetlać listę kierunków i maksymalną ilość miejsc na nich, następnie spytać, czy chcemy dodać następnego studenta.
+Jeżeli chcemy to zrobić zostaniemy spytani o imię, nazwisko i ilość jego pounktów rekrutacyjnych. Kontroler za pomocą łańcucha zobowiązań
+dopasuje studenta do kierunku na który się dostał i poprzez view zwróci informację o jego zakwalifikowaniu. Osoba ze słabszym wynikiem zastąpi nowego w łańcuchu.
+Jeżeli ktoś nie dostanie się na żaden kierunek jego podanie zostanie odrzucone. Pytanie o dodanie studenta jest ponawiane za każdym kolejnym razem
+aż odpowiemy nie. Wtedy powstaje plik CSV z listą studentów na odpowiednich kierunkach.
