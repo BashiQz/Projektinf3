@@ -56,7 +56,6 @@ public:
 /*
 class $$$$ :public kierunek {
 private:
-
 public:
 $$$$(string imie, string nazwisko, float punkty) { PrzypiszCechy("$$$$", ILOSC_$$$$, punkty, imie, nazwisko); };
 void Wypisz(ostream& StrmWy);

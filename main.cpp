@@ -1,5 +1,5 @@
 #include <iostream>
-#include"View.h"
+#include "View.h"
 
 using namespace std;
 
